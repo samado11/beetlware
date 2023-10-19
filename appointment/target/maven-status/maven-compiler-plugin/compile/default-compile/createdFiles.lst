@@ -1,0 +1,5 @@
+com\example\doclogin\AppointmentApplication.class
+com\example\doclogin\Controller\AppointmentController.class
+com\example\doclogin\criteria\AppointmentSpecification.class
+com\example\doclogin\repository\AppointmentRepository.class
+com\example\doclogin\model\Appointment.class
